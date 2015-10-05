@@ -1,0 +1,24 @@
+/* IMPORT FONTS */
+@import url(https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab);
+
+/* START STYLES */
+* {
+	-webkit-font-smoothing: antialiased;
+}
+h1, h2, h3, h5, h6 {
+	text-align: center;
+	font-family: 'Roboto';
+}
+p {
+	font-family: 'Roboto Slab';
+}
+
+/* PRINT STYLES */
+@media print {
+	h1, h2, h3, h4, h5, h6 {
+		font-weight: bold;
+	}
+	p {
+		font-size: 12pt;
+	}
+}
