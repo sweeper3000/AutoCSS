@@ -7,6 +7,6 @@
 - All paragraph elements have Roboto Slab as the font.
 - Everything else is sans serif. Change that as needed.
 - When printed: All paragraph elements 12pt. All header elements bolded.
-## Which One Should I Use?
+### Which One Should I Use?
 - AutoCSS is un-minified. You can read that easily.
 - AutoCSS.min is minified.
