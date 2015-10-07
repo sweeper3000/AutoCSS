@@ -7,7 +7,7 @@
 - All elements have webkit font smoothing
 - All header elements are centered, and have the Roboto font
 - All paragraph elements have Roboto Slab as the font.
-- Everything else is sans serif. Change that as needed.
+- Everything else is Roboto. Change that as needed.
 - When printed: All paragraph elements 12pt. All header elements bolded.
 
 ### Which One Should I Use?
