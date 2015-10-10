@@ -1,10 +1,14 @@
 #info #functions {
 	background-color: #d3d1d1;
 }
-#btn-download {
+#btnDownload {
 	padding: 10px;
 	background: #5fdb43;
 	color: white;
+	text-decoration: none !important;
+}
+#btnDownload:active {
+	background: #43c526;
 }
 #sub {
 	text-align: center;
